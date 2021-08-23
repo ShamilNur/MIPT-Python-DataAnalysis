@@ -1,2 +1,3 @@
-# MIPT-Python-DataAnalysis
-My practical cases from MIPT course, which I finished in October 2020
+# python-data-analysis-2020-MIPT
+
+Practical cases from courses in MIPT, summer 2020.
